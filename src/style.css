@@ -7,12 +7,10 @@ body {
     display: flex;
     flex: 1;
     flex-flow: column;
-    /* align-items: center; */
-    align-items: left;
+    align-items: flex-start;
     margin: 0;
     padding: 0;
 
-    letter-spacing: 0pc;
     font-size: 20px;
     line-height: 24px;
     font-weight: 400;
